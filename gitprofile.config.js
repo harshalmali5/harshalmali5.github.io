@@ -89,9 +89,9 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'SGP Teacher resource management system',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Created a Teacher resource management system for our campus which currently employes more than 500 teachers and 200 staff members.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
@@ -102,13 +102,13 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-  ],
+  ],/*
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
-  },
+  },*/
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
@@ -133,7 +133,6 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
       'dark',
       'cupcake',
       'bumblebee',
@@ -176,13 +175,13 @@ const config = {
       '--rounded-btn': '3rem',
     },
   },
-
+/*
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a> and ❤️`,*/
 };
 
 export default config;
