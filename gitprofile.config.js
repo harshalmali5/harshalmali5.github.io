@@ -89,7 +89,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'SGP Teacher resource management system',
+      title: 'SGP Teacher Resource Management',
       description:
         'Created a Teacher resource management system for our campus which currently employes more than 500 teachers and 200 staff members.',
       imageUrl: 'https://via.placeholder.com/250x250',
