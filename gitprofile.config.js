@@ -91,15 +91,15 @@ const config = {
     {
       title: 'SGP Teacher resource management system',
       description:
-        'Developed "Homeverse," a personalized real estate website catering to individuals seeking their dream homes in diverse locations.',
+        'Created a Teacher resource management system for our campus which currently employes more than 500 teachers and 200 staff members.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
       title: 'Home Verse',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+        'Developed "Homeverse," a personalized real estate website catering to individuals seeking their dream homes in diverse locations.',
+      imageUrl: '/homeverse/assets/images/service-3.png',
       link: 'https://example.com',
     },
   ],/*
