@@ -32,6 +32,8 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'Cyber Security',
+    'Machine Learning',
     'PHP',
     'Laravel',
     'JavaScript',
@@ -46,21 +48,22 @@ const config = {
     'CSS',
     'Antd',
     'Tailwind',
+    'MERN',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
+      company: 'HBWSL',
+      position: 'Intern',
+      from: 'March 2022',
+      to: 'September 2022',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Freelancer',
+      position: 'Software Development Engineer',
       from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      to: 'Present',
+      companyLink: 'https://freelancer.com',
     },
   ],
   /* certifications: [
