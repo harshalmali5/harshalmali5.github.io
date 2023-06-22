@@ -15,7 +15,7 @@ const config = {
     twitter: '_Frost_MZ4_',
     mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: 'harshal_fourz',
     dribbble: '',
     behance: '',
     medium: '',
@@ -24,7 +24,7 @@ const config = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '',
+    phone: '+91 7385790611',
     email: 'harshalmali527@gmail.com',
   },
   resume: {
