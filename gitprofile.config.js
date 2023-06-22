@@ -73,16 +73,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'P.E.S. Modern College of Engineering',
+      degree: 'B.E. Artificial Intelligence and Machine Learning',
+      from: '2022',
+      to: '2025 (expected)',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Sanjay Ghodawat Polytechnic',
+      degree: 'Diploma In Computer Science and Engineering',
+      from: '2019',
+      to: '2022',
     },
   ],
 
