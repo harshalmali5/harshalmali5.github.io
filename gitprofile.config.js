@@ -100,7 +100,7 @@ const config = {
       description:
         'Developed "Homeverse," a personalized real estate website catering to individuals seeking their dream homes in diverse locations.',
       imageUrl: '/homeverse/assets/images/service-3.png',
-      link: 'https://example.com',
+      link: 'http://sgptrms.rf.gd/homeverse/',
     },
   ],/*
   // Display blog posts from your medium or dev account. (Optional)
