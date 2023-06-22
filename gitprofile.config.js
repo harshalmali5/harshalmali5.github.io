@@ -99,7 +99,7 @@ const config = {
       title: 'Home Verse',
       description:
         'Developed "Homeverse," a personalized real estate website catering to individuals seeking their dream homes in diverse locations.',
-      imageUrl: '/homeverse/assets/images/service-3.png',
+      imageUrl: 'http://sgptrms.rf.gd/homeverse/assets/images/service-3.png',
       link: 'http://sgptrms.rf.gd/homeverse/',
     },
   ],/*
