@@ -25,7 +25,7 @@ const config = {
     telegram: '',
     website: '',
     phone: '+91 7385790611',
-    email: 'harshalmali527@gmail.com',
+    email: 'admin@fourz.tech',
   },
   resume: {
     fileUrl:
