@@ -25,7 +25,7 @@ const config = {
     telegram: '',
     website: '',
     phone: '+91 7385790611',
-    email: 'harshal@fourz.tech',
+    email: 'harshalmali527@gmail.com',
   },
   resume: {
     fileUrl:
@@ -52,10 +52,10 @@ const config = {
   ],
   experiences: [
     {
-      company: 'HBWSL',
-      position: 'Intern',
-      from: 'March 2022',
-      to: 'September 2022',
+      company: 'Task Labs',
+      position: 'SDE Intern',
+      from: 'November 2023',
+      to: 'Present',
       companyLink: 'https://example.com',
     },
     {
